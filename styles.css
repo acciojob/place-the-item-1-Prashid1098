@@ -4,13 +4,13 @@
 {
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: space-between;
 }
 div div
 {
 	border: 1px solid;
 	padding: 40px;
 	font-size: 35px;
-	margin: 5px;
 	font-weight: 800;
 }
 .g
